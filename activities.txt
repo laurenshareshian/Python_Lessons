@@ -1,0 +1,22 @@
+[
+    {"name" : "Samantha",
+    "fall" : "soccer",
+    "winter" : "theater",
+    "spring" : "lacrosse"
+    },
+    {"name" : "James",
+    "fall" : "band",
+    "winter" : "basketball",
+    "spring" : "debate"
+    },
+    {"name" : "Vanessa",
+    "fall" : "soccer",
+    "winter" : "choir",
+    "spring" : "lacrosse"
+    },
+    {"name" : "Steven",
+    "fall" : "band",
+    "winter" : "basketball",
+    "spring" : "tennis"
+    }
+]
